@@ -4,7 +4,7 @@
   
   This chapter is all about preparing for the machine coding round of the interview with all the knowledge that we gained in this Namaste React Course. How to prepare before the interview, what to plan before starting to code in interview and how to efficiently utilize the time that we have to develop an app were discussed. I am developing an app `YouTube-Clone` with this knowledge. Check out [YouTube-Clone](https://github.com/Learn-React-With-Harshi/youtube-clone) repository to check the code for this app.
 
-  Find the detailed step on creating the app in [setup.md](https://github.com/Learn-React-With-Harshi/chapter-14-machine-coding-interview/blob/main/setup.md.md). Check [features.md](https://github.com/chapter-14-machine-coding-interview/blob/main/setup.md.md) for all the features that I implemented in the app `youtube-Clone`.
+  Find the detailed step on creating the app in [setup.md](https://github.com/Learn-React-With-Harshi/chapter-14-machine-coding-interview/blob/main/setup.md.md). Check [features.md](https://github.com/chapter-14-machine-coding-interview/blob/main/features.md) for all the features that I implemented in the app `youtube-Clone`.
 
 One line about this chapter : `How you plan your initially 10 mins of machine coding interview determines the success rate of the interview  `
 
