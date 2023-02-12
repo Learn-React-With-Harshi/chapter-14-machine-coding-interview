@@ -5,6 +5,15 @@
 
 Note : Before start to code, get the requirements clarified with the interviewer and create a low-level design of the app in mind.
 
+### Tech Stack:
+- UI Framwork         : React (Created using cerate-react-app)
+- CSS Framework       : Tailwind CSS 
+- Routing             : React Router DOM
+- State Management    : React-Redux & Redux Toolkit
+- Web Bundler         : Webpack
+- Testing Frameowrk   : React Testing Library & Jest
+
+
 1. Create React App - Executing a package CRA to start a new react app with name namaste-youtube 
 ```
 $ npx create-react-app youtube-clone
